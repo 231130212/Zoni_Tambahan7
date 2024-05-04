@@ -1,0 +1,81 @@
+*,html {
+    justify-content: center;
+}
+
+img {
+    margin-left: 350px;
+    width: 300px;
+    height: 100px;
+    
+}
+.header-1 {
+    text-align: center;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: white;
+}
+h1 {
+    text-align: center;
+}
+
+h2 {
+    text-align: center;
+    color: white;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+body{
+    background-color: #352a2e;
+    width: 1000px;
+    margin: auto;
+}
+
+footer {
+    color: white;
+}
+
+article {
+    text-align: center;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: white;
+    font-size: medium;
+}
+
+p {
+    color: white;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.container-navbar {
+    background-color: #867189;
+    font-weight: 500;
+    width: 100%;
+    height: 70px;
+    justify-content: center;
+}
+
+.media-awal {
+    justify-content: center;
+}
+
+.manfaat {
+    color: white;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.ul-navbar {
+    display: flex;
+}
+
+.li-navbar {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    list-style-type: none;
+    padding:20px ;
+    margin: 5px;
+    justify-content: center;
+    color: white;
+}
+
+.dahlia {
+    color: white;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
